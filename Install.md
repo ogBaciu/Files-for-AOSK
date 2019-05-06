@@ -1,4 +1,4 @@
-#Installing Kali Linux
+# Installing Kali Linux
 
 In order to perform all the tasks presented in the book, a couple of files and programs are required. If you are not able to download the Kali image we offer, you can create your own following the steps presented in this guide. 
 
