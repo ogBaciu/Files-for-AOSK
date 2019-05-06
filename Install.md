@@ -3,7 +3,7 @@
 In order to perform all the tasks presented in the book, a couple of files and programs are required. If you are not able to download the Kali image we offer, you can create your own following the steps presented in this guide. 
 
 1.	You need to download a Kali Linux image from the official website. Navigate to [Kali Linux](https://www.kali.org/downloads/) and download a 64 Bit file. It should have an .iso extension
-2.	Once the file is downloaded go to the first chapter of the book, subsection [Burn the Kali Linux image onto the SD card] (https://suzannejmatthews.gitbooks.io/aosk/content/chapter1.html) in order to learn how to add the image to the card.
+2.	Once the file is downloaded go to the first chapter of the book, subsection [Burn the Kali Linux image onto the SD card](https://suzannejmatthews.gitbooks.io/aosk/content/chapter1.html) in order to learn how to add the image to the card.
 
 # Installing additional software
 
