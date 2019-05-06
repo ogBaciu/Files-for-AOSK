@@ -10,7 +10,7 @@ In order to perform all the tasks presented in the book, a couple of files and p
 At this point you should be able to insert the SD card in your Raspberry Pi and see the log-in screen. Follow chapter one for instructions. The operating system, Kali Linux, is clean at the moment, meaning that it does not have any added software or other files. In order to have it prepared for the Adventures of ScriptKitty, follow the following steps.
 
 1.	One software we use in the lessons is Wireshark. Kali Linux should have it preinstalled. To check, simply open a terminal in Kali and run `man wireshark`. If it returns that wireshark is not installed continue with the following steps.
-2.	 To install it, you can navigate to [Wireshark] (https://www.wireshark.org/) from your Raspberry Pi and download it or open a terminal and type `sudo apt-get install wireshark`. This last command might ask for a password. That is your account password, in this case toor. 
+2.	 To install it, you can navigate to [Wireshark](https://www.wireshark.org/) from your Raspberry Pi and download it or open a terminal and type `sudo apt-get install wireshark`. This last command might ask for a password. That is your account password, in this case toor. 
 3.	John the Ripper, comes pre-installed with Kali Linux. 
 
 # Downloading files
