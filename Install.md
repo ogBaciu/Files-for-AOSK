@@ -19,3 +19,14 @@ Throughout the lessons we use different files. If you do not use the image provi
 1.	Open a terminal in Kali Linux and type `git clone https://github.com/ogBaciu/Files-for-AOSK.git` 
 2.	If you check your desktop you will find new files. Those are the ones required throughout the lessons. When one is referenced, know that it is on your desktop
 
+# Create a new user account
+
+In chapter four, we ask the students to try to log-in a different user account. In order to do this step we have to create a new account. Follow the steps:
+
+1. Open a terminal in Kali Linux and type `sudo useradd gerry`. This command will create a new user account - gerry and  will create its home directory at /etc/default/gerry. If you want to add files for this user, that is the right directory.
+2. Run `sudo passwd gerry`. This command will allow you to set the password for the new account. To stay consistent with the lessons, set the password to **snoopy**.
+3. Move the **meeting.txt** file in /etc/default/gerry.
+
+# Use the script
+
+Even though the above steps are good practice, if you do not want to follow all the steps, you can download the install.sh in Kali Linux and run `bash install.sh`. This command will set up everyuthing for you.
