@@ -5,6 +5,13 @@ In order to perform all the tasks presented in the book, a couple of files and p
 1.	You need to download a Kali Linux image from the official website. Navigate to [Kali Linux](https://www.kali.org/downloads/) and download a 64 Bit file. It should have an .iso extension
 2.	Once the file is downloaded go to the first chapter of the book, subsection [Burn the Kali Linux image onto the SD card](https://suzannejmatthews.gitbooks.io/aosk/content/chapter1.html) in order to learn how to add the image to the card.
 
+# Installing Raspbian 
+
+All the tasks presented in the book can be performed in Raspbian as well. We do not offer a custo image for this operating system. The following steps will help you prepare the Raspbian.
+
+1. Navigate to [Raspberry Pi](https://www.raspberrypi.org/downloads/raspbian/). Downloadd any of the .ZIP files to your system. Unzip the archive. You will notice that the archive contains a .iso file. 
+2. From here you can follow the steps outlined in [Burn the Kali Linux image onto the SD card](https://suzannejmatthews.gitbooks.io/aosk/content/chapter1.html). The same process works for both Kali Linux and Raspbian. 
+
 # Installing additional software
 
 At this point you should be able to insert the SD card in your Raspberry Pi and see the log-in screen. Follow chapter one for instructions. The operating system, Kali Linux, is clean at the moment, meaning that it does not have any added software or other files. In order to have it prepared for the Adventures of ScriptKitty, follow the following steps.
