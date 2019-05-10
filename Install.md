@@ -29,4 +29,4 @@ In chapter four, we ask the students to try to log-in a different user account. 
 
 # Use the script
 
-Even though the above steps are good practice, if you do not want to follow all the steps, you can download the install.sh in Kali Linux and run `bash install.sh`. This command will set up everyuthing for you.
+Even though the above steps are good practice, if you do not want to follow all the steps, you can download the install.sh with `git clone https://github.com/ogBaciu/Files-for-AOSK.git`-> `cd Files-for-AOSK` and run `bash install.sh`. This command will set up everyithing for you.
